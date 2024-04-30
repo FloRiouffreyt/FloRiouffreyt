@@ -21,7 +21,7 @@ Formation en alternance sur 15 mois avec la [Wild Code School](https://www.wildc
 
 ### Projets
 
-✏️ Actuellement, je travaille sur un projet appelé [Urstorie](https://urstorie.com) en tant que Front End developer, sous la supervision d'un lead developer
+✏️ Actuellement, je travaille sur un projet appelé [Urstorie](https://urstorie.ju.mp) en tant que Front End developer, sous la supervision d'un lead developer
 - **Stack FE:** React Typescript/Vite
 - **Stack BE:** MongoDB/.NET
 - Méthode Agile SCRUM (Jira), Gitlab, Docker
